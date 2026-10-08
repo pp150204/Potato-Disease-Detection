@@ -112,7 +112,7 @@ The model was trained and evaluated with an **80% - 10% - 10%** train-validation
 - **Input Dimension:** $256 \times 256 \times 3$
 - **Loss Function:** Categorical Crossentropy
 - **Optimizer:** Adam
-- **Test Accuracy:** **93.53%**
+- **Test Accuracy:** **90.53%**
 - **Test Loss:** **0.2032**
 - **Model Size:** ~3.42 MB (`potato_disease_model.tflite`)
 
