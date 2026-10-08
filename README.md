@@ -50,7 +50,7 @@ Traditional diagnostic methods rely on manual laboratory examination or speciali
 ## ✨ Key Features
 
 - **⚡ 100% Offline Inference:** Runs completely on-device using `tflite_flutter`. No internet connection, API keys, or cloud servers are required.
-- **🎯 High Classification Accuracy:** Achieves **93.53% accuracy** on independent test datasets.
+- **🎯 High Classification Accuracy:** Achieves **90.53% accuracy** on independent test datasets.
 - **📷 Easy Image Selection:** Pick high-resolution leaf images directly from your device gallery.
 - **📊 Real-Time Diagnostic Feedback:** Displays the predicted disease name along with an exact confidence percentage score.
 - **🌱 Clean & Intuitive Material UI:** Simple, accessible interface tailored for field use by farmers and agricultural researchers.
