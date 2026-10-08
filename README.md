@@ -288,6 +288,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author & Acknowledgments
 
-- **Author:** [pp150204](https://github.com/pp150204)
+- **Author:** [Prathmesh Pimpare](https://github.com/pp150204)
 - **Dataset:** PlantVillage Potato Leaf Disease Dataset
 - **Tools:** TensorFlow, TensorFlow Lite, Flutter, and the open-source community
